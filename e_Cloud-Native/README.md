@@ -2,6 +2,11 @@
 
 ## [WhatIs](WhatIs.md)
 
+## 
+```md
+当前最新的云原生架构，以Docker+Kubernetes为核心，尤其是容器编排Kubernetes 已经成为事实上的行业标准。
+```
+
 ## 云原生平台
 * 敏捷开发
 ```md
