@@ -1,31 +1,31 @@
 
 # [What Is Software Architecture ?](WhatIs.md)
 
-# [Architect (架构师)](Architect/README.md)
+# [Architect (架构师)](a_Architect/README.md)
 
 # Architecture Framework
-## [TOGAF](TOGAF/README.md)
+## [TOGAF](h_TOGAF/README.md)
 
 # Architecture Style
 ## 1
-### [C/S](CS/README.md)
+### [C/S](e_Arch-Style/CS/README.md)
 ### B/S
 
 ## 2
-### [Layered](../Layered/README.md)
-### [Event Driven (事件驱动架构，EDA)](../arch-event-driven/README.md)
-### [Micro-Kernel](microkernel/README.md)
-### [Cloud Native](cloud-native/README.md)
+### [Layered](e_Layered/README.md)
+### [Event Driven (事件驱动架构，EDA)](e_Event-Driven/README.md)
+### [Micro-Kernel](e_Arch-Style/Microkernel/README.md)
+### [Cloud Native](e_Cloud-Native/README.md)
 
 ## 3
-### [Distributed](KS-Distributed/README.md)
-### [SOA](KS-SOA/README.md)
-### [Micro-Service](KS-MicroService/README.md)
-### [Decentralized](0_arch-style/decentralized/README.md)
-### [Serverless](0_arch-style/serverless/README.md)
+### [Distributed](e_Distributed/README.md)
+### [SOA](e_SOA/README.md)
+### [Micro-Service](e_MicroService/README.md)
+### [Decentralized](e_Arch-Style/Decentralized/README.md)
+### [Serverless](e_Arch-Style/Serverless/README.md)
 
 ## 4
-### [中台](KS-Arch-MiddleGround/README.md)
+### [中台](f_MiddleGround/README.md)
 
 ## 5
 ### 主从模式（Master-Slave Pattern）
@@ -60,9 +60,9 @@
 ### CQRS
 ### EventSourcing
 
-# [High Availability Architectures](Arch_HA/README.md)
+# [High Availability Architectures](_HA/README.md)
 
-# [Architecture Design Practice](Arch-Design/README.md)
+# [Architecture Design Practice](_Design/README.md)
 
 # References
 * [O'Reilly《Software Architecture Patterns》]()
