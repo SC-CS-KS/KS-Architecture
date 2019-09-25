@@ -37,5 +37,5 @@ Table of Contents
          * [EventSourcing](#eventsourcing)
    * [<a href="_HA/README.md">High Availability Architectures</a>](#high-availability-architectures)
    * [<a href="_Design/README.md">Architecture Design Practice</a>](#architecture-design-practice)
-   * [References](#references)
+   
 
