@@ -1,6 +1,7 @@
 # [TOGAF (The Open Group Architecture Framework)](https://www.opengroup.org/togaf)
 ```md
-TOGAF是一种协助发展，验收，运行，使用，和维护架构的工具。并支持开放、标准的SOA参考架构。
+TOGAF是一种协助发展，验收，运行，使用，和维护架构的工具。
+并支持开放、标准的SOA参考架构。
 由The Open Group开发，The Open Group是一个非盈利的技术行业联盟。
 
 企业架构方法有很多，但从数据显示，TOGAF无疑是最主流的。
