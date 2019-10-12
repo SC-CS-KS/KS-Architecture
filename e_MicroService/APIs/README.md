@@ -6,9 +6,7 @@
 
 ## 网络 APIs
 ### [RPC - 基于 Socket 的 RPC APIs](e_RPC_APIs/README.md)
-### [Web API](e_Web-APIs/README.md)
-#### [RESTful - 基于 HTTP 的 REST APIs](e_Web-APIs/a_RESTful/README.md)
-#### [a_GraphQL](e_Web-APIs/a_GraphQL/README.md)
+### [Web APIs](https://github.com/SC-CS-KS/KS-Web/tree/master/WebAPIs)
 
 ## 序列化方式
 #### [JSON API](JSON-API/README.md)
