@@ -2,16 +2,16 @@
 
 ## [What Is API](WhatIs.md)
 
-## [应用编程接口](a_Programme-APIs/README.md)
+## [应用编程接口](ProgrammeAPIs/README.md)
 
 ## 网络 APIs
-### [RPC - 基于 Socket 的 RPC APIs](e_RPC_APIs/README.md)
+### [RPC - 基于 Socket 的 RPC APIs](RPCAPIs/README.md)
 ### [Web APIs](https://github.com/SC-CS-KS/KS-Web/tree/master/WebAPIs)
 
 ## 序列化方式
 #### [JSON API](JSON-API/README.md)
 
-## [Open API](z_OpenAPI/README.md)
+## [Open API](OpenAPI/README.md)
 
 ## [Design](design/README.md)
 
