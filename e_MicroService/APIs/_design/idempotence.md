@@ -52,3 +52,5 @@ try{
 }
 ```
 
+## Reference
+* [考虑没有分布式锁定与Ben Darfler的幂等性策略](https://www.bennadel.com/blog/3390-considering-strategies-for-idempotency-without-distributed-locking-with-ben-darfler.htm)

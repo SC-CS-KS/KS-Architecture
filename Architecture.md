@@ -1,7 +1,7 @@
 
-# [What Is Software Architecture ?](WhatIs.md)
+# [What Is Software Architecture ?](Architecture/WhatIs.md)
 
-# [Architect (架构师)](a_Architect/README.md)
+# [Architect (架构师)](Architect/README.md)
 
 # Architecture Framework
 ## [TOGAF](h_TOGAF/README.md)
@@ -62,7 +62,7 @@
 
 # [High Availability Architectures](_HA/README.md)
 
-# [Architecture Design Practice](_Design/README.md)
+# [Architecture Design Practice](_design/README.md)
 
 # References
 * [O'Reilly《Software Architecture Patterns》]()
