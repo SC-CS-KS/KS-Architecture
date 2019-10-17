@@ -53,16 +53,15 @@
 ### 解释器模式（Interpreter Pattern）
 ```md
 模式用于设计一个解释专用语言编写的程序组件。
-
 ```
 
 ## DDD
 ### CQRS
 ### EventSourcing
 
-# [High Availability Architectures](_HA/README.md)
-
 # [Architecture Design Practice](_design/README.md)
+
+# [High Availability Architectures](https://github.com/SC-CS-KS/KS-HA)
 
 # References
 * [O'Reilly《Software Architecture Patterns》]()
