@@ -3,26 +3,30 @@
 
 # [Architect (架构师)](Architect/README.md)
 
-# Architecture Framework
-## [TOGAF](h_TOGAF/README.md)
+# 架构理论
+## 一致性
+## 康威定律
 
-# Architecture Style
+# 架构模型 Architecture Model
+## [TOGAF](_Model/TOGAF/README.md)
+
+# 架构风格 Architecture Style
 ## 1
 ### [C/S](e_Arch-Style/CS/README.md)
 ### B/S
 
 ## 2
-### [Layered](e_Layered/README.md)
+### [Layered（分层架构）](e_Layered/README.md)
 ### [Event Driven (事件驱动架构，EDA)](e_Event-Driven/README.md)
-### [Micro-Kernel](e_Arch-Style/Microkernel/README.md)
-### [Cloud Native](e_Cloud-Native/README.md)
+### [Micro-Kernel（微内核架构）](e_Arch-Style/Microkernel/README.md)
+### [Cloud Native（云原生架构）](e_Cloud-Native/README.md)
 
 ## 3
-### [Distributed](e_Distributed/README.md)
-### [SOA](e_SOA/README.md)
-### [Micro-Service](e_MicroService/README.md)
-### [Decentralized](e_Arch-Style/Decentralized/README.md)
-### [Serverless](e_Arch-Style/Serverless/README.md)
+### [Distributed（分布式）](e_Distributed/README.md)
+### [SOA（面向服务）](e_SOA/README.md)
+### [Micro-Service（微服务）](e_MicroService/README.md)
+### [Decentralized（去中心化）](e_Arch-Style/Decentralized/README.md)
+### [Serverless（无服务器）](e_Arch-Style/Serverless/README.md)
 
 ## 4
 ### [中台](f_MiddleGround/README.md)
@@ -55,13 +59,11 @@
 模式用于设计一个解释专用语言编写的程序组件。
 ```
 
-## DDD
-### CQRS
-### EventSourcing
+# [架构设计实践](_design/README.md)
 
-# [Architecture Design Practice](_design/README.md)
+# [高可用架构]](https://github.com/SC-CS-KS/KS-HA)
 
-# [High Availability Architectures](https://github.com/SC-CS-KS/KS-HA)
+# [产品架构](_ProductArch/README.md)
 
 # References
 * [O'Reilly《Software Architecture Patterns》]()
