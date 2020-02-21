@@ -1,7 +1,7 @@
 
 # [What Is Software Architecture ?](Architecture/WhatIs.md)
 
-# [Architect (架构师)](Architect/README.md)
+# [Architect (架构师)知识体系](Architect/README.md)
 
 # 架构理论
 ## 一致性
