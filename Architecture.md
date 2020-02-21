@@ -1,5 +1,5 @@
 
-# [What Is Software Architecture ?](Architecture/WhatIs.md)
+# [What Is Software Architecture ?](WhatIs.md)
 
 # [Architect (架构师)知识体系](Architect/README.md)
 
@@ -40,7 +40,7 @@
 ### 黑板模式（Blackboard Pattern）
 ### 解释器模式（Interpreter Pattern）
 
-# [架构设计实践](_design/README.md)
+# [架构设计](_design/README.md)
 
 # [高可用架构]](https://github.com/SC-CS-KS/KS-HA)
 

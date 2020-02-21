@@ -1,4 +1,4 @@
-# Architecture Practice
+# 架构设计
 
 ```md
 * 需求优化最重要 - 少查少写少依赖，Less is more
@@ -8,7 +8,6 @@
 ```
 
 ## Design Practice
-
 
 ## Resources
 * [The System Design Primer - 系统设计入门](https://github.com/donnemartin/system-design-primer)
