@@ -3,7 +3,7 @@
 
 # [Architect (架构师)知识体系](Architect/README.md)
 
-# 架构理论
+# [架构理论](ArchTheory/README.md)
 ## 一致性
 ## 康威定律
 
@@ -40,14 +40,23 @@
 ### 黑板模式（Blackboard Pattern）
 ### 解释器模式（Interpreter Pattern）
 
-# [架构设计](_design/README.md)
+# 架构分类
+
+## [产品架构](ArchClassification/Product-Arch/README.md)
+## 应用架构
+## [数据架构](ArchClassification/Data-Arch/README.md)
+### 数据存储架构
+#### ApacheBookKeeper
+### 数据处理架构
+#### 数据序列化
+## [分布式架构]()
+## [物理架构]()
+## [运维架构]()
+
+# [架构设计](ArchDesign/README.md)
 
 # [高可用架构]](https://github.com/SC-CS-KS/KS-HA)
 
-# [产品架构](_ProductArch/README.md)
-
 # References
 * [O'Reilly《Software Architecture Patterns》]()
-
 * [互联网公司架构演进之路汇总](https://www.jianshu.com/p/49ddf2f5c165)
-* [Book Reading Note](https://github.com/SunnnyChan/sc.ebooks/tree/master/arch)
