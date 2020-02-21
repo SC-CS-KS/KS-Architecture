@@ -1,4 +1,4 @@
-# Multitier Architecture
+# 分层架构
 
 # [WhatIs](WhatIs.md)
 

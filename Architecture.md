@@ -1,35 +1,35 @@
 
 # [What Is Software Architecture ?](WhatIs.md)
 
-# [Architect (架构师)知识体系](Architect/README.md)
+# [Architect (架构师)知识体系](KS-Architect/README.md)
 
 # [架构理论](ArchTheory/README.md)
 ## 一致性
 ## 康威定律
 
-# 架构模型 Architecture Model
-## [TOGAF](_Model/TOGAF/README.md)
+# 架构框架
+## [TOGAF](ArchFramework/TOGAF/README.md)
 
-# [架构风格/模式](e_Arch-Style/README.md)
+# [架构风格/模式](ArchStyle/README.md)
 ## 1
-### [C/S](e_Arch-Style/CS/README.md)
+### [C/S](ArchStyle/CS/README.md)
 ### B/S
 
 ## 2
-### [Layered（分层架构）](e_Layered/README.md)
-### [Event Driven (事件驱动架构，EDA)](e_Event-Driven/README.md)
-### [Micro-Kernel（微内核架构）](e_Arch-Style/Microkernel/README.md)
-### [Cloud Native（云原生架构）](e_Cloud-Native/README.md)
+### [Layered（分层架构）](Archs/Layered/README.md)
+### [Event Driven (事件驱动架构，EDA)](Archs/Event-Driven/README.md)
+### [Micro-Kernel（微内核架构）](ArchStyle/Microkernel/README.md)
+### [Cloud Native（云原生架构）](Archs/Cloud-Native/README.md)
 
 ## 3
-### [Distributed（分布式）](e_Distributed/README.md)
-### [SOA（面向服务）](e_SOA/README.md)
-### [Micro-Service（微服务）](e_MicroService/README.md)
-### [Decentralized（去中心化）](e_Arch-Style/Decentralized/README.md)
-### [Serverless（无服务器）](e_Arch-Style/Serverless/README.md)
+### [Distributed（分布式）](Archs/Distributed/README.md)
+### [SOA（面向服务）](Archs/SOA/README.md)
+### [Micro-Service（微服务）](Archs/MicroService/README.md)
+### [Decentralized（去中心化）](ArchStyle/Decentralized/README.md)
+### [Serverless（无服务器）](Archs/Serverless/README.md)
 
 ## 4
-### [中台](f_MiddleGround/README.md)
+### [中台](Archs/MiddleGround/README.md)
 
 ## 5
 ### 主从模式（Master-Slave Pattern）
@@ -41,7 +41,6 @@
 ### 解释器模式（Interpreter Pattern）
 
 # 架构分类
-
 ## [产品架构](ArchClassification/Product-Arch/README.md)
 ## 应用架构
 ## [数据架构](ArchClassification/Data-Arch/README.md)

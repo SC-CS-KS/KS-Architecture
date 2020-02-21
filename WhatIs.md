@@ -1,9 +1,14 @@
 # Software Architecture
 
 ## 什么是架构？
+Wikipedia:
+Architecture is both the process and the product of planning, designing, 
+and constructing buildings or any other structures. 
+The term architecture is also used metaphorically to refer to 
+the design of organizations and other abstract concepts.
 
 架构就是对系统中的实体以及实体之间的关系所进行的抽象描述。
-架构始于建筑，是因为人类发展（原始人自给自足住在树上，也就不需要架构），分工协作的需要，
+架构始于建筑，是因为人类发展（原始人自给自足住在树上，也就不需要架构）分工协作的需要，
 将目标系统按某个原则进行切分，切分的原则，是要便于不同的角色进行并行工作。
 
 ## 为什么需架构
