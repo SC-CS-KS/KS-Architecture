@@ -58,5 +58,4 @@
 # [高可用架构]](https://github.com/SC-CS-KS/KS-HA)
 
 # References
-* [O'Reilly《Software Architecture Patterns》]()
 * [互联网公司架构演进之路汇总](https://www.jianshu.com/p/49ddf2f5c165)
