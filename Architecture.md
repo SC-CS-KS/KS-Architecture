@@ -22,7 +22,7 @@
 ### [Cloud Native（云原生架构）](Archs/Cloud-Native/README.md)
 
 ## 3
-### [Distributed（分布式）](Archs/Distributed/README.md)
+### [Distributed（分布式）](https://github.com/SC-CS-KS/KS-Distributed)
 ### [SOA（面向服务）](Archs/SOA/README.md)
 ### [Micro-Service（微服务）](Archs/MicroService/README.md)
 ### [Decentralized（去中心化）](ArchStyle/Decentralized/README.md)
