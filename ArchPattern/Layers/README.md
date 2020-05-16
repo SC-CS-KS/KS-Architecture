@@ -1,4 +1,4 @@
-# 分层架构
+# 层次结构架构风格(Hierarchical Layers)
 
 # [WhatIs](WhatIs.md)
 
